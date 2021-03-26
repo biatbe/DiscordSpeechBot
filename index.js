@@ -292,7 +292,7 @@ function getHelpString() {
         out += 'music set favorite\n'
         out += 'music favorites\n'
         out += 'music list\n'
-        out += 'music clear list\n';
+        out += 'music clear\n';
         out += '```'
 
         out += '**TEXT COMMANDS:**\n'
